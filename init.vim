@@ -1,0 +1,12 @@
+source $HOME/.config/nvim/vim-plug/plugins.vim
+source $HOME/.config/nvim/general/settings.vim
+source $HOME/.config/nvim/plugged/airline.vim
+source $HOME/.config/nvim/plugged/coc.vim
+source $HOME/.config/nvim/plugged/floaterm.vim
+source $HOME/.config/nvim/plugged/fzf-settings.vim
+source $HOME/.config/nvim/plugged/nerdcommenter.vim
+source $HOME/.config/nvim/plugged/rainbowp.vim
+source $HOME/.config/nvim/plugged/start-screen.vim
+source $HOME/.config/nvim/general/mappings.vim
+source $HOME/.config/nvim/themes/gruvbox.vim
+lua require'plug-colorizer'
